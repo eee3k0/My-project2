@@ -741,6 +741,48 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/11956f33bb9a6ca4997feced357ff80d8b2597367951d4ab34cd67d5a2d8b054_Dot Bar Green Fill Bar.png",
           "name": "Dot Bar Green Fill Bar.png"
         }
+      },
+      {
+        "file": "assets/Walk_03.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "c28cb70352c8781281c29825066e546bc615f2021ce49952d8edb395ca18c4cb_Walk_03.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Tile/Walk/c28cb70352c8781281c29825066e546bc615f2021ce49952d8edb395ca18c4cb_Walk_03.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Walk_04.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "ab1ad43b3b3ee85318d786c7b06e4cb6296ca714b94ae9215cfe23e43a3e06c0_Walk_03.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Wood/Walk/ab1ad43b3b3ee85318d786c7b06e4cb6296ca714b94ae9215cfe23e43a3e06c0_Walk_03.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/The Land of the Dead.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "449bbaa2a76f1be74d7b8d6c61713da993ee10a6cd33fc1f52f6135d53c56a6f_The Land of the Dead.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/449bbaa2a76f1be74d7b8d6c61713da993ee10a6cd33fc1f52f6135d53c56a6f_The Land of the Dead.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
