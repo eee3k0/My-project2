@@ -1,0 +1,52 @@
+{
+  "associatedLayout": "Overworld",
+  "name": "Main menu",
+  "instances": [
+    {
+      "angle": 0,
+      "customSize": true,
+      "depth": 1,
+      "height": 1019,
+      "keepRatio": true,
+      "layer": "Layer",
+      "name": "NewSprite3",
+      "persistentUuid": "77f54e93-4bbb-4caf-a9d6-94a16268349d",
+      "width": 1286,
+      "x": 0,
+      "y": -172,
+      "zOrder": 3,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "keepRatio": true,
+      "layer": "Layer",
+      "name": "New_game",
+      "persistentUuid": "a31096fd-375d-48fe-9619-cdd87111bacb",
+      "width": 0,
+      "x": 559,
+      "y": 485,
+      "zOrder": 4,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
+    }
+  ],
+  "editionSettings": {
+    "grid": false,
+    "gridType": "rectangular",
+    "gridWidth": 32,
+    "gridHeight": 32,
+    "gridOffsetX": 0,
+    "gridOffsetY": 0,
+    "gridColor": 10401023,
+    "gridAlpha": 0.8,
+    "snap": false,
+    "zoomFactor": 0.4481978045410359,
+    "windowMask": false
+  }
+}
