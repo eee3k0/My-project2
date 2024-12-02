@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "/Users/jasminarmijo/Desktop/My-project2-main 3/Mainpt3",
     "maxFPS": 60,
     "minFPS": 20,
     "verticalSync": false,
@@ -1329,6 +1329,79 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/44b20c5be998f2190b2ac28fd71a838b278069de9cdcfc130fa6ac219a841ca6_NewTegomin-Regular.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "file": "assets/Kenney Rocket Square.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "230dad49e1cb1d076ffee25fbe334f5f9921aea9d4364d60196d4c03191fbe86_Kenney Rocket Square.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/230dad49e1cb1d076ffee25fbe334f5f9921aea9d4364d60196d4c03191fbe86_Kenney Rocket Square.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Roboto-BoldItalic.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "8c9a07c662ceae43dd999872f6bd6916cb95b58c2ae373fd0a8aa58b91ce7c43_Roboto-BoldItalic.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/8c9a07c662ceae43dd999872f6bd6916cb95b58c2ae373fd0a8aa58b91ce7c43_Roboto-BoldItalic.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "background2.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "background2.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Chronos.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "eb1a26156713122dd5e35472a754b9be0eed78a86601a544bb2c94bd1091275c_Chronos.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Electronic/eb1a26156713122dd5e35472a754b9be0eed78a86601a544bb2c94bd1091275c_Chronos.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Black Knight.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fed777286f0c1b9230c1cdddbe5c3beb90ba16974f6a8620bdb99d97c5afd2c3_Black Knight.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/fed777286f0c1b9230c1cdddbe5c3beb90ba16974f6a8620bdb99d97c5afd2c3_Black Knight.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/The Land of the Dead.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "449bbaa2a76f1be74d7b8d6c61713da993ee10a6cd33fc1f52f6135d53c56a6f_The Land of the Dead.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Horror/449bbaa2a76f1be74d7b8d6c61713da993ee10a6cd33fc1f52f6135d53c56a6f_The Land of the Dead.aac",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -1387,6 +1460,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/battle"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/credits"
     }
   ],
   "externalEvents": [],
@@ -1444,6 +1521,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/main-menu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalLayouts/assests"
     }
   ],
   "externalSourceFiles": []
