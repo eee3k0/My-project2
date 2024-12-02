@@ -744,189 +744,62 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Door With Frame.png",
+        "file": "background 1.jpg",
         "kind": "image",
         "metadata": "",
-        "name": "Door With Frame.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/ebf5a6faac331368eb5d32375b50e8ee52c095a95326cc70db6e1413683036d8_Door With Frame.png",
-          "name": "Door With Frame.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Door With Frame_Closed.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Door With Frame_Closed.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/b9627812567c6bda1c92b887facbddec9f82198cf42f9f0f41bbba4320bb49ff_Door With Frame_Closed.png",
-          "name": "Door With Frame_Closed.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Door With Frame_Open.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Door With Frame_Open.png",
-        "smoothed": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/a69e54aecf30566a9a5c1ae5a3ad81c9decc94cadf81b9565913254ee92024c4_Door With Frame_Open.png",
-          "name": "Door With Frame_Open.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Sound button_off.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sound button_off.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Shaded Dark/1560fd83eb1805d1e0227a7b55a5f48827bb92e39a2ad18ac8f8afc493a0f398_Sound button_off.png",
-          "name": "Sound button_off.png"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Sound button_on.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Sound button_on.png",
-        "smoothed": true,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/On-Screen Controls/Sprites/Shaded Dark/4b6f02be313d5654182afd8855c1283dc25b1c52fd6d788f6509886ca33498dc_Sound button_on.png",
-          "name": "Sound button_on.png"
-        }
-      },
-      {
-        "file": "assets/Walk_03.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "88f3a4f00d6a94ad66862fb2231c2fba63ddf02a5207a28b313ae232fa732811_Walk_03.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Mud/Walk/88f3a4f00d6a94ad66862fb2231c2fba63ddf02a5207a28b313ae232fa732811_Walk_03.wav",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Walk_07.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "b76490a018d2e23087f6c8c7a32533a18d88273ead5eefadb3158bc2cde3c7e5_Walk_07.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Wood/Walk/b76490a018d2e23087f6c8c7a32533a18d88273ead5eefadb3158bc2cde3c7e5_Walk_07.wav",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Walk_01.wav",
-        "kind": "audio",
-        "metadata": "",
-        "name": "9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
-        "preloadAsMusic": false,
-        "preloadAsSound": false,
-        "preloadInCache": false,
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/DirtyGround/Walk/9e6c1c3f9594ea0796b8bbd636507bfe04625bc14344d5fc2a673e0da51030d7_Walk_01.wav",
-          "name": "gdevelop-asset-store"
-        }
-      },
-      {
-        "file": "assets/Cube Bricks.glb",
-        "kind": "model3D",
-        "metadata": "",
-        "name": "Cube Bricks.glb",
-        "userAdded": false,
-        "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Platformer Game Kit/Block/b02e652dbb1356bc0c0afa8bfa6b535d9c0cc1cd9670123e9993b36fe3c613ac_Cube Bricks.glb",
-          "name": "Cube Bricks.glb"
-        }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "DALL·E 2024-11-20 17.23.00 - A highly detailed dungeon room designed for an escape room game. The room is dimly lit by flickering torches mounted on stone walls, casting dramatic .webp",
-        "kind": "image",
-        "metadata": "",
-        "name": "DALL·E 2024-11-20 17.23.00 - A highly detailed dungeon room designed for an escape room game. The room is dimly lit by flickering torches mounted on stone walls, casting dramatic .webp",
+        "name": "background 1.jpg",
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Hovered.png",
+        "file": "assets/Red Button With Metal Frame_Hovered.png",
         "kind": "image",
         "metadata": "",
-        "name": "Black Square Decorated Button_Hovered.png",
+        "name": "Red Button With Metal Frame_Hovered.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/f412f1600c8331cf72f89d4bd00ce33a91d18553dea6d91ae71966a24c659e9a_Black Square Decorated Button_Hovered.png",
-          "name": "Black Square Decorated Button_Hovered.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/b22a9a1823c086427abcdbec14ef49d5a49e6999d8970476bdb7c022b62d8dcc_Red Button With Metal Frame_Hovered.png",
+          "name": "Red Button With Metal Frame_Hovered.png"
         }
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Idle.png",
+        "file": "assets/Red Button With Metal Frame_Idle.png",
         "kind": "image",
         "metadata": "",
-        "name": "Black Square Decorated Button_Idle.png",
+        "name": "Red Button With Metal Frame_Idle.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/a33bd108a01f89ef1fe8d695b6b060e19ec466e4fce2d728ed93fb2b96ebd768_Black Square Decorated Button_Idle.png",
-          "name": "Black Square Decorated Button_Idle.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c89bb37a1b97b101b601ba39bce50d74964264704d0644735a08c0986e122294_Red Button With Metal Frame_Idle.png",
+          "name": "Red Button With Metal Frame_Idle.png"
         }
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Black Square Decorated Button_Pressed.png",
+        "file": "assets/Red Button With Metal Frame_Pressed.png",
         "kind": "image",
         "metadata": "",
-        "name": "Black Square Decorated Button_Pressed.png",
+        "name": "Red Button With Metal Frame_Pressed.png",
         "smoothed": true,
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/c772df82fc56543546eea5576b02f73253eaf5683120a331581f0b85664f62af_Black Square Decorated Button_Pressed.png",
-          "name": "Black Square Decorated Button_Pressed.png"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ff00ce0a7031e00560a3844ca90fbf73a45c42c8f6659e018110fc8c45c9982e_Red Button With Metal Frame_Pressed.png",
+          "name": "Red Button With Metal Frame_Pressed.png"
         }
       },
       {
-        "file": "assets/mononoki-Regular.ttf",
+        "file": "assets/Charm-Regular.ttf",
         "kind": "font",
         "metadata": "",
-        "name": "mononoki-Regular.ttf",
+        "name": "Charm-Regular.ttf",
         "userAdded": false,
         "origin": {
-          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/7423149de6e486ac885567761bef3236bcdb8414d05cb0920ae7aedffdec85f9_mononoki-Regular.ttf",
-          "name": "mononoki-Regular.ttf"
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/668523d3d2bb73faa358e1ebafa55f43d2760f8abbe99aa15476121c1bcc7eb6_Charm-Regular.ttf",
+          "name": "Charm-Regular.ttf"
         }
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "room 1.jpeg",
-        "kind": "image",
-        "metadata": "",
-        "name": "room 1.jpeg",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -1073,48 +946,389 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "real backfround 2.jpg",
+        "file": "assets/Sword_Spinning_1.png",
         "kind": "image",
         "metadata": "",
-        "name": "real backfround 2.jpg",
-        "smoothed": true,
-        "userAdded": false
+        "name": "Sword_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/37313efcecbc27b67842b75547e8c3cc8f5fb609b2b05a80571711059d03cbfe_Sword_Spinning_1.png",
+          "name": "Sword_Spinning_1.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "real image 3.jpg",
+        "file": "assets/Sword_Spinning_2.png",
         "kind": "image",
         "metadata": "",
-        "name": "real image 3.jpg",
-        "smoothed": true,
-        "userAdded": false
+        "name": "Sword_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d74e19aae437068c297959a2ded1d4ecaefa93bb54d239cf14a60a9bdf5ebe3b_Sword_Spinning_2.png",
+          "name": "Sword_Spinning_2.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "background 1.jpg",
+        "file": "assets/Sword_Spinning_3.png",
         "kind": "image",
         "metadata": "",
-        "name": "background 1.jpg",
-        "smoothed": true,
-        "userAdded": false
+        "name": "Sword_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/584ded8a2c80971ec6a6fcc6a7c4f09a34498ce4e9af8c03ffa37ea2d95bb940_Sword_Spinning_3.png",
+          "name": "Sword_Spinning_3.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "DALL·E 2024-11-20 17.23.00 - A highly detailed dungeon room designed for an escape room game. The room is dimly lit by flickering torches mounted on stone walls, casting dramatic1.webp",
+        "file": "assets/Sword_Spinning_4.png",
         "kind": "image",
         "metadata": "",
-        "name": "DALL·E 2024-11-20 17.23.00 - A highly detailed dungeon room designed for an escape room game. The room is dimly lit by flickering torches mounted on stone walls, casting dramatic1.webp",
-        "smoothed": true,
-        "userAdded": false
+        "name": "Sword_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/15ecb8553b89ff142226c350b53da0bc1234480922bef22a3d4447601a0b0ec6_Sword_Spinning_4.png",
+          "name": "Sword_Spinning_4.png"
+        }
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite.png",
+        "file": "assets/Ladder.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite.png\"}",
-        "name": "NewSprite",
+        "metadata": "",
+        "name": "Ladder.png",
         "smoothed": true,
-        "userAdded": false
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/e3006f0b8d3bf869f63406aa49df6648c3da1723625dd4895577638ed4cad787_Ladder.png",
+          "name": "Ladder.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Candle_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Candle_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/5ea1ab9cf6a100603aa102675b7fc50ac119816fd368d8c26c5b5cef38a392cf_Candle_No Shadow.png",
+          "name": "Candle_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Candle_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Candle_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/85fab119374749f4cd036bebe430c7282735698c6f4af4490d19c0bb843de239_Candle_Shadow.png",
+          "name": "Candle_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ring Of Fire_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ring Of Fire_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Special Moves/072a56c19acedccfdae0a0e18c1340c60a37aeeb1bf1f34ec4b373f7589c2bb5_Ring Of Fire_No Shadow.png",
+          "name": "Ring Of Fire_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ring Of Fire_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ring Of Fire_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Special Moves/6a05a30a34a85a8fbae29bddf9ac9cd3f59038b07f679bb276094ab8cb4a4812_Ring Of Fire_Shadow.png",
+          "name": "Ring Of Fire_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner Left.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Corner Left.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/2e3e2277f011eee36c2a7e8735b5f05a754e6b7363a7d1326226d2ca10ffd268_Wall Corner Left.png",
+          "name": "Wall Corner Left.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Corner Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/5d5bf9d6d668ad14a17c3e7e74d12e4068d5b41d4114d77fa40056281bf08b32_Wall Corner Right.png",
+          "name": "Wall Corner Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Wall Corner Front Right.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Wall Corner Front Right.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/d6e8593b6a42b49ac4f481ec113bfb4d662e883cccb25d5e6edc8055fe3b55dc_Wall Corner Front Right.png",
+          "name": "Wall Corner Front Right.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/ebf5a6faac331368eb5d32375b50e8ee52c095a95326cc70db6e1413683036d8_Door With Frame.png",
+          "name": "Door With Frame.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/b9627812567c6bda1c92b887facbddec9f82198cf42f9f0f41bbba4320bb49ff_Door With Frame_Closed.png",
+          "name": "Door With Frame_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Door With Frame_Open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Door With Frame_Open.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Door/a69e54aecf30566a9a5c1ae5a3ad81c9decc94cadf81b9565913254ee92024c4_Door With Frame_Open.png",
+          "name": "Door With Frame_Open.png"
+        }
+      },
+      {
+        "file": "assets/Bucket.glb",
+        "kind": "model3D",
+        "metadata": "",
+        "name": "Bucket.glb",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/3D Pirate Kit/Prop/362f68f166c044adb024e803733fba8184e83d13425833c909c6119aee990def_Bucket.glb",
+          "name": "Bucket.glb"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Wide ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Wide ladder.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Abstract Platformer Pack (370 assets)/PNG/Other/472a5d61b135646d5ba9f4cc37df387899f1cdb34c7927263918a9eab1784e33_tiled_Wide ladder.png",
+          "name": "tiled_Wide ladder.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Floor Hole.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Floor Hole.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Floor/8ea46763c39a1ff350703d9c9c410b4dbb382687aca5287b263a3204568df28d_Floor Hole.png",
+          "name": "Floor Hole.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Full Column.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Column.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Walls/217f7feac38406b4c8f652ed7d7f34dbcdc432f911f006eec2258b596e9411c1_Full Column.png",
+          "name": "Full Column.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Closed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Closed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/f8965b683fff88c13806b14595718f37673588271c5d88b9ff5a2168069d600b_Chest_Closed.png",
+          "name": "Chest_Closed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Empty Open_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Empty Open_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/f8965b683fff88c13806b14595718f37673588271c5d88b9ff5a2168069d600b_Chest_Empty Open_1.png",
+          "name": "Chest_Empty Open_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Empty Open_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Empty Open_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/9e232927ca40159da28525fb294cce71d0224c916bd7b399b8fa12199b526b3d_Chest_Empty Open_2.png",
+          "name": "Chest_Empty Open_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Empty Open_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Empty Open_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/c0dcbe5a8c82bcc31f66131f7dd40597f989f0613c2ba2e7c3d68de3dd291591_Chest_Empty Open_3.png",
+          "name": "Chest_Empty Open_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Full Open_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Full Open_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/f8965b683fff88c13806b14595718f37673588271c5d88b9ff5a2168069d600b_Chest_Full Open_1.png",
+          "name": "Chest_Full Open_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Full Open_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Full Open_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/bd52968e726a338bc281f3d1c46cbac6613a82943b009d3065d522f30366b816_Chest_Full Open_2.png",
+          "name": "Chest_Full Open_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Full Open_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Full Open_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/0abf08b8560409410459f12596e0dfa3351dfca72d0d5b993cb75037c73f0306_Chest_Full Open_3.png",
+          "name": "Chest_Full Open_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Mimic Open_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Mimic Open_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/f8965b683fff88c13806b14595718f37673588271c5d88b9ff5a2168069d600b_Chest_Mimic Open_1.png",
+          "name": "Chest_Mimic Open_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Mimic Open_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Mimic Open_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/5b74aa4bf4fbfd0018a6bf4bbf341c6af1beb2c23599d50532dafe630f6e7920_Chest_Mimic Open_2.png",
+          "name": "Chest_Mimic Open_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Chest_Mimic Open_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Chest_Mimic Open_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Dungeon Tileset/Items/Chest/215c553c30faf2bb2c8364deb80cef93705b0089b7c657f21049723dd8501a46_Chest_Mimic Open_3.png",
+          "name": "Chest_Mimic Open_3.png"
+        }
+      },
+      {
+        "file": "assets/NewTegomin-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "44b20c5be998f2190b2ac28fd71a838b278069de9cdcfc130fa6ac219a841ca6_NewTegomin-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/Japanese/44b20c5be998f2190b2ac28fd71a838b278069de9cdcfc130fa6ac219a841ca6_NewTegomin-Regular.ttf",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -1173,10 +1387,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/battle"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/layouts/room-1"
     }
   ],
   "externalEvents": [],
@@ -1234,18 +1444,6 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalLayouts/main-menu"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/room-1"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/room-2"
-    },
-    {
-      "__REFERENCE_TO_SPLIT_OBJECT": true,
-      "referenceTo": "/externalLayouts/room-3"
     }
   ],
   "externalSourceFiles": []
